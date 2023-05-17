@@ -1,4 +1,4 @@
-name: Rust
+name: File Hash
 
 on:
   push:
